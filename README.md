@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image.png]( {https://github.com/mayamaryanah/mayamaryanah/blob/edd7fe53ffb05034851061ea3f2183be81411c53/Maya.png} )
+<img src=”http://https://github.com/mayamaryanah/mayamaryanah/blob/main/Maya.png”>
 <!--
 **mayamaryanah/mayamaryanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
