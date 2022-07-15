@@ -1,16 +1,13 @@
-### Hi there 👋
-<img src=”http://https://github.com/mayamaryanah/mayamaryanah/blob/main/Maya.png”>
+### Hi  👋
+![Maya](https://user-images.githubusercontent.com/105536950/179148128-328a70ce-20a2-41d8-a27c-3eeb79662836.png)
+- 🔭 I’m a Bachelor of Science majoring in Mathematics 
+- 🌱 I’m currently learning Data Science, Data Analyst, and Business Intelligence
+- 📫 How to reach me: https://wwww.linkedin.com/in/mayamaryanah and mayamaryanah4@gmail.com
+- 😄 Pronouns: She/Her
+
 <!--
 **mayamaryanah/mayamaryanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Finished Data Science Bootcamp
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+
